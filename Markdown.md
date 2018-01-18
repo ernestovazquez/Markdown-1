@@ -30,8 +30,8 @@ Crear bloques
 
 **Negrita**
 
-Para los enlaces tendremos que poner entre corchetes ~~~[]~~~ el nombre del enlace y
-entre ~~~()~~~ a continuacion el enlace.
+Para los enlaces tendremos que poner entre corchetes [ ] el nombre del enlace y
+entre ( ) a continuacion el enlace.
 
 [Github Ismael](https://github.com/ismaelse95)
 
