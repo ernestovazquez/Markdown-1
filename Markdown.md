@@ -48,7 +48,7 @@ Crear bloques
 
 ***
 
-\*\*\* --> Espacios entre lineas.
+\*\*\* --> Separación horizontal.
 
 ***
 
