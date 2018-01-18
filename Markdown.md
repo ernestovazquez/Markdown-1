@@ -52,6 +52,10 @@ Crear bloques
 
 ***
 
+\\ \` \* \_  \{\} \[\] \(\) \# \+ \- \. \! \: \| --> \ Sirve para escapar el caracter.
+
+***
+
 Para los enlaces tendremos que poner entre corchetes [ ] el nombre del enlace y
 entre ( ) a continuacion el enlace.
 
