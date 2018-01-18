@@ -15,7 +15,7 @@ Sintaxis básica:
 - Listado por puntos
 
 \~\~\~
-Crear blocques.
+Crear bloques
 \~\~\~
 
 ~~~
