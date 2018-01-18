@@ -5,10 +5,10 @@ Sintaxis básicos para poder utilizar Markdown.
 Sintaxis básica:
 
 \#\# Título
-##Título
+## Título
 
 \#\#\# Subtítulo
-###Subtítulo
+### Subtítulo
 
 \- Listado por puntos
 -Listado por puntos
