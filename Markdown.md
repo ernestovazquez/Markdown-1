@@ -1,4 +1,4 @@
-#Markdown
+# Markdown
 
 Sintaxis básicos para poder utilizar Markdown.
 
@@ -11,7 +11,8 @@ Sintaxis básica:
 ### Subtítulo
 
 \- Listado por puntos
--Listado por puntos
+
+- Listado por puntos
 
 \~\~\~
 Crear blocques.
@@ -22,9 +23,11 @@ Crear bloques
 ~~~
 
 \*Cursiva\*
+
 *cursiva*
 
 \*\*Negrita\*\*
+
 **Negrita**
 
 Para los enlaces tendremos que poner entre corchetes [] el nombre del enlace y
