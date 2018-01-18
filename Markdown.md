@@ -34,3 +34,5 @@ Para los enlaces tendremos que poner entre corchetes [] el nombre del enlace y
 entre parentesis a continuacion el enlace.
 
 [Github Ismael](https://github.com/ismaelse95)
+
+[Página INFOTECNO](https://tutecnoinfor.wordpress.com/)
