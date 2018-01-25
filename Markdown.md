@@ -20,11 +20,11 @@ Sintaxis básica:
 
 ***
 
-\~\~\~
+\~~~
 
 Crear bloques
 
-\~\~\~
+\~~~
 
 ~~~
 Crear bloques
