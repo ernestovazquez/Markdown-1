@@ -21,7 +21,9 @@ Sintaxis básica:
 ***
 
 \~\~\~
+
 Crear bloques
+
 \~\~\~
 
 ~~~
